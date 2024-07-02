@@ -14,7 +14,7 @@ Before running this program, make sure you have the following installed:
 1. Clone this repository:
 
     ```shell
-    git clone https://github.com/your-username/hello-world.git
+    git clone https://github.com/MatheusUsb/hello-world.git
     ```
 
 2. Navigate to the project directory:
@@ -26,14 +26,15 @@ Before running this program, make sure you have the following installed:
 3. Compile the source code:
 
     ```shell
-    g++ hello.cpp -o hello
+    g++ main.cpp -o main
     ```
 
 4. Run the program:
 
     ```shell
-    ./hello
+    ./main 
     ```
+(change main for your branche if necessary)
 
 ## Contributing
 
